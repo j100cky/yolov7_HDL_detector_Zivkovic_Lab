@@ -7,7 +7,7 @@ This implementation is based on [yolov7](https://github.com/WongKinYiu/yolov7/tr
 
 ## Instance segmentation
 
-[source code](./seg)
+[source code](https://github.com/zivkovic-lab/yolov7_HDL_detector/tree/u7/seg)
 
 ## Tutorial
 
