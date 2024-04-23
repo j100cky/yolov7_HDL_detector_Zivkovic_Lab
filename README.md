@@ -1,6 +1,6 @@
 # yolov7-based high-density lipoprotein (HDL) detector
 
-Arguably, the most accurate sizing method for HDL particles currently is transmission electron microscopy. However, conventional image analysis software can be challenged by various image quality issues and can be unpredictable. Here we implemented the yolov7 convolutional neural network for HDL imaging using TEM and particle measurement.
+Arguably, the most accurate sizing method for HDL particles currently is transmission electron microscopy. However, conventional image analysis software can be challenged by various image quality issues and can be unpredictable. Here we implemented the yolov7 convolutional neural network for particle measurement on TEM images.
 
 This implementation is based on [yolov7](https://github.com/WongKinYiu/yolov7/tree/u7).
 
